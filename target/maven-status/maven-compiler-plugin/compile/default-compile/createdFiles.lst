@@ -1,0 +1,8 @@
+com\opendecision\ruleengine\model\Parameter.class
+com\opendecision\ruleengine\model\RuleSet.class
+com\opendecision\ruleengine\model\Rule.class
+com\opendecision\ruleengine\model\GlobalVariable.class
+com\opendecision\ruleengine\model\RuleId.class
+com\opendecision\ruleengine\model\RuleAction.class
+com\opendecision\ruleengine\model\Condition.class
+com\opendecision\ruleengine\model\LocalVariable.class
